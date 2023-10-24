@@ -7,8 +7,6 @@
 
 ## Skills
 
-## Skills
-
 #### Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-efd81a?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
