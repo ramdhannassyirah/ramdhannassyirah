@@ -26,4 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
+#### Statistik
+[![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=ramdhannassyirah)](https://github.com/ramdhannassyirah)
 
+[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhannassyirah&layout=compact)](https://github.com/ramdhannassyirah)
