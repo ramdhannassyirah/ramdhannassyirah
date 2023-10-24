@@ -3,9 +3,13 @@
 ## Connect with me
 
 [![Linkedin: Ramdhan Nassyirah](https://img.shields.io/badge/-ramdhannassyirah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramdhannassyirah/)](https://www.linkedin.com/in/ramdhannassyirah/)
+<a href="https://instagram.com/ramdhannassyrah"><img align="left" src="https://raw.githubusercontent.com/ramdhannassyrah/ramdhannassyrah/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 
 ## Skills
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Languages
 
@@ -25,6 +29,7 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Statistics
 
