@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-#### Statistik
-[![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=ramdhannassyirah)](https://github.com/ramdhannassyirah)
+## Statistics
 
-[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhannassyirah&layout=compact)](https://github.com/ramdhannassyirah)
+<span><img height="150" src="https://github-readme-stats.vercel.app/api?username=ramdhannassyirah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ramdhannassyirah github stats" /></span>
+<span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhannassyirah&layout=compact&langs_count=6" /></span>
