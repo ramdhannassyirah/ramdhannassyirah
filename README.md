@@ -25,5 +25,5 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2f99ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
 
