@@ -3,8 +3,6 @@
 ## Connect with me
 
 [![Linkedin: Ramdhan Nassyirah](https://img.shields.io/badge/-ramdhannassyirah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramdhannassyirah/)](https://www.linkedin.com/in/ramdhannassyirah/)
-<a href="https://instagram.com/ramdhannassyrah"><img align="left" src="https://raw.githubusercontent.com/ramdhannassyrah/ramdhannassyrah/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
 
 ## Skills
 
